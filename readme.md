@@ -76,5 +76,6 @@ This project is a random quotes generator that allows users to retrieve a variet
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-Please follow our [](Readme.md) for more details.
+Please follow our [ ```bash
+  https://github.com/Chandruvijayakumar/Day-20-task-2 (Readme.md) ```] for more details.
 
