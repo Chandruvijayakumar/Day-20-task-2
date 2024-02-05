@@ -24,7 +24,7 @@ This project is a random quotes generator that allows users to retrieve a variet
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/random-quotes-generator.git
+    [https://quotsgenrator.netlify.app/]
     ```
 
 2. Navigate to the project directory:
@@ -76,5 +76,11 @@ This project is a random quotes generator that allows users to retrieve a variet
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-Please follow our [](Readme.md) for more details.
+Please follow our
+ ```bash
+    [https://github.com/Chandruvijayakumar/]
+ ```
+for more details
+
+
 
